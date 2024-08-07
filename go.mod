@@ -1,4 +1,4 @@
-module firstparamcontextlinter
+module github.com/liujtm/firstparamcontextlinter
 
 go 1.22.4
 
