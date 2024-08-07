@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/liujtm/firstparamcontextlinter/firstparamcontext"
+	"github.com/liujtm/first_param_ctx_linter/firstparamcontext"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
