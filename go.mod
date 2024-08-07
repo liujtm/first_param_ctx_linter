@@ -1,4 +1,4 @@
-module github.com/liujtm/firstparamcontextlinter
+module github.com/liujtm/first_param_ctx_linter
 
 go 1.22.4
 
